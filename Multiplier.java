@@ -14,7 +14,7 @@ public class Multiplier {
 
 	public static void main(String[] args) throws Exception {
 		if (args.length < 2) {
-			System.out.println("»ç¿ë¹ý : java Multiplier <°öÇÒ ¼ö1> <°öÇÒ ¼ö2>");
+			System.out.println("ì‚¬ìš©ë²• : java Multiplier <ê³±í•  ìˆ˜1> <ê³±í•  ìˆ˜2>");
 			System.exit(1);
 		}
 
