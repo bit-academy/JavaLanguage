@@ -7,7 +7,7 @@ public class ArrayAsObject {
 		System.out.println(args);
 
 		Object[] argsObj = (Object[]) args;
-		System.out.println("Object[] ¿« ±Ê¿Ã : " + argsObj.length);
+		System.out.println("Object[] Ïùò Í∏∏Ïù¥ : " + argsObj.length);
 
 		String[] argsStr = (String[]) args;
 		for (int i = 0, len = argsStr.length; i < len; i++) {
