@@ -17,10 +17,10 @@ public class Block {
 
 		{
 			int localValue = 1;
-			// int constructValue = 2;
+			// int constructValue = 2; // 예외발생
 		}
 
-		// localValue++;
+		// localValue++; // 예외발생
 	}
 
 	public static void main(String[] args) {
